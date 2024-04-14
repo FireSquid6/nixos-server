@@ -64,7 +64,7 @@
 
   users.users.firesquid = {
     isNormalUser = true;
-    password = "8008";
+    password = "simplepassword";
     extraGroups = [ "wheel" "networkmanager" "docker"];
   };
 
